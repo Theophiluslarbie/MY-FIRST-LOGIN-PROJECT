@@ -12,14 +12,12 @@
 }
 
 .navbar {
-    /* background-color: antiquewhite; */
     width: 1700px;
     height: 75px;
     margin: auto;
 }
 
 .icon {
-    /* background-color: aqua; */
     width: 200px;
     height: 70px;
     float: left;
